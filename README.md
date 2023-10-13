@@ -17,7 +17,7 @@ Use Growtopia 4.19 🇹🇰
 # Download
 * Hash = <b>4d6014b42ebd41373f5b6f0e01ffebb8f2a14a0dc9eb5e6849a99dccecafe92f (Virustotal hash)</b>
 * [Download 32 BIT](https://www.mediafire.com/file/byd8x2vf2f7ri2a/GPAI_32BIT.rar/file)
-* [Download 64 BIT](https://www.mediafire.com/file/rz05zjoebraeike/GPAI_64BIT.rar/file(
+* [Download 64 BIT](https://www.mediafire.com/file/rz05zjoebraeike/GPAI_64BIT.rar/file)
 * [Growtopia](growtopiagame.com)
 
 # Credits
