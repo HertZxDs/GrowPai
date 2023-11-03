@@ -8,15 +8,15 @@
 Use Growtopia 4.19 🇹🇰
 
 
-# Changelogs [10/9/2023]
-* Updated to 4.38
+# Changelogs [11/3/2023]
+* Updated to 4.40
 
-# Changelogs [9/24/2023]
-* Added version checker
+# Changelogs [10/9/2023]
+* Updated to 4.39
 
 # Download
 * Hash = <b>4d6014b42ebd41373f5b6f0e01ffebb8f2a14a0dc9eb5e6849a99dccecafe92f (Virustotal hash)</b>
-* [Download](https://download1638.mediafire.com/szakqdaog4igGYod-YV7oCu5Hn8TQlcUqR7yw2OGQmGEEAhZ7yHF0WJgOi231WTDLgWYdXdFy1Z7MrV3RBNIhJyUVtSBGF0eqnDRWJzxonCROVcYPfivq4FieSgYSoSrWlLyG8KAUQtv-Q4160cXh2ZdsIjo0Unm-OHEc3-o/gmo9nyoi9cyocjw/GPAI.rar)
+* [Download](https://www.mediafire.com/file/jo8ex22klzkiyoh/GPAI.rar/file)
 # Password : GPAI
 * [Growtopia](growtopiagame.com)
 
