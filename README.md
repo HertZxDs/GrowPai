@@ -16,7 +16,7 @@ Use Growtopia 4.19 🇹🇰
 
 # Download
 * Hash = <b>4d6014b42ebd41373f5b6f0e01ffebb8f2a14a0dc9eb5e6849a99dccecafe92f (Virustotal hash)</b>
-* [Download](https://www.mediafire.com/file/jo8ex22klzkiyoh/GPAI.rar/file)
+* [Download](https://www.mediafire.com/file/et99sqeka87fjvd/GPAI.rar/file)
 # Password : GPAI
 * [Growtopia](growtopiagame.com)
 
