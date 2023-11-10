@@ -7,7 +7,7 @@ Use Growtopia 4.19 🇹🇰
 
 # Changelogs [11/6/2023]
 * Updated to All in one installer with GT 4.19 with proxy script inside script folder.
-* Link to NEW [Download](https://www.mediafire.com/file/z1ci1jp7dxdls5p/GPAI.rar/file)
+* Link to NEW [Download](https://www.mediafire.com/file/g6y818ah8yjhv0r/GPAI.rar/file)
 # Password : GPAI
 
 
