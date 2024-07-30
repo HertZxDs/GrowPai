@@ -1,13 +1,13 @@
 # This is the real Github (Check name github Hertzsz)
 # Version
-* Version : <b>4.40</b> [11/3/2023]
+* Version : <b>4.62</b> [24/7/2023]
 * Compatible growtopia version : <b>4.19</b>
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
 # Changelogs [11/6/2023]
 * Updated to All in one installer with GT 4.19 with proxy script inside script folder.
-* Link to NEW [Download](https://www.mediafire.com/file/g6y818ah8yjhv0r/GPAI.rar/file)
+* Link to NEW [Download](https://www.mediafire.com/file/hlju2z64mq1l02a/GPAI.zip/file)
 # Password : GPAI
 
 
